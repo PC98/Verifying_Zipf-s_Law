@@ -1,0 +1,2 @@
+# Verifying_Zipf-s_Law
+ This program verifies ZIpf's Law in a text file of 'Murder on the Orient Express' by Agatha Christie. Zipf's Law is perhaps the most counter intuitive law in statistics. It states that the frequency of a word is inversely proportional to its statistical rank. The law holds true for all languages, even the ancient languages that we haven't deciphered yet. What's more, statistical observations in the physical world can be attributed to Zipf's Law. For details-  http://bit.ly/1KqqsuT
